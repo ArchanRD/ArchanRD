@@ -5,7 +5,6 @@ Web developer
 -------------
 
 * 🌍  I'm based in Vadodara, Gujarat
-* 🖥️  See my portfolio at [My Portfolio](https://archan.dev/)
 * ✉️  You can contact me at [archanrd29@gmail.com](mailto:archanrd29@gmail.com)
 * 🧠  I'm contrbuting into open source!
 
